@@ -10,16 +10,35 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+To effectively address the problem of implementing an Alumni Association platform for a Government Engineering College under the Government of Gujarat, the project should focus on creating an integrated ecosystem that meets the needs of alumni for networking, career advancement, giving back to the institution, and fostering a sense of community. Here's a structured approach with key ideas to solve the problem:
 
+1.Web and Mobile Interface: The platform could showcase a modern, clean user interface with easy navigation, featuring icons or sections for alumni registration, donation portals, job search, alumni networking, success stories, and events.
+2.Networking Hub: Visual elements could include interconnected circles or profiles representing alumni from various fields, interacting or connecting with each other.
+3.Donation Feature: A button or call-to-action encouraging alumni to contribute, possibly with a bar showing fundraising goals or progress.
+4.Job Portal: A section listing job opportunities with filter options and an easy application process.
+5.Success Stories: Alumni profiles with photos and text showcasing their achievements and contributions.
+6.Event Management: A calendar view or event list showing upcoming reunions, webinars, or professional development sessions.
 
 ## Proposed Solution / Architecture Diagram
+
+
+![image](https://github.com/user-attachments/assets/b79cd920-515c-4502-bc4b-52144274d293)
 
 
 ## Use Cases
 
 
-## Technology Stack
+![image](https://github.com/user-attachments/assets/8800067b-091d-4d7d-9eaf-8267e29e8d4e)
 
+
+## Technology Stack
+databases
+serverless stack
+mern stack
+fulter
 
 ## Dependencies
+mapping sevice-20 days
+data collection-20 days
+budget-rs.1,00,000![image](https://github.com/user-attachments/assets/69efc101-0f19-4be0-9c14-526bda40c413)
 
